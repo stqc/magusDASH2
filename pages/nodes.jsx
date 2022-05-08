@@ -978,7 +978,7 @@ export default function Nodes() {
   const [nodesBalance,updateNodeBalance] = useState("0");
   const [contract,updateContract]=useState("0");
   var inpAMT = createRef();
-  var contractAddress="0xbEf6b0C8612bB13EE4Db7e19a69ef084eeF60B31";
+  var contractAddress="0x622eD1968a2896F6FF6a0F3ea44134e65D1e1494";
   const withWeb3 = async ()=>{
     try{
         
